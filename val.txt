@@ -1,0 +1,5 @@
+data/JPEGImages/aircraft_1008.jpg
+data/JPEGImages/aircraft_341.jpg
+data/JPEGImages/aircraft_455.jpg
+data/JPEGImages/aircraft_625.jpg
+data/JPEGImages/aircraft_752.jpg
